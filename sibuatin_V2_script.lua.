@@ -133,3 +133,4 @@ utilityTab:CreateButton({
         settings().Rendering.QualityLevel = Enum.QualityLevel.Level01
     end,
 })
+Rayfield:LoadConfiguration()
